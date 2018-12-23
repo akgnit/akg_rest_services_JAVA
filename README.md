@@ -1,1 +1,1 @@
-# akg_rest_services_JAVA
+This project is under development
